@@ -1,0 +1,100 @@
+Photosynthesis: The process by which green plants use sunlight to synthesize food from carbon dioxide and water.
+The Golden Retriever: A sturdy, muscular dog of medium size, famous for its dense, lustrous golden coat.
+Baking Basics: To bake a chocolate cake, start by preheating your oven to 180°C and greasing two 8-inch round cake pans.
+Python Programming: A high-level, interpreted programming language known for its readability and versatility in data science.
+Paris: The capital of France, known as a global center for art, fashion, gastronomy, and culture.
+Machine Learning: A branch of AI that focuses on using data and algorithms to imitate the way humans learn.
+The Eiffel Tower: A wrought-iron lattice tower in Paris, named after the engineer Gustave Eiffel.
+Nutrition: A healthy diet should include a variety of fruits, vegetables, whole grains, and lean proteins.
+Quantum Computing: Utilizes properties of quantum states, such as superposition, to perform complex calculations.
+Tokyo: The capital of Japan, blending ultramodern skyscrapers with historic temples and neon-lit streets.
+The Water Cycle: The continuous movement of water on, above, and below the surface of the Earth.
+Marine Biology: The scientific study of marine life and organisms inhabiting the sea and other saltwater environments.
+Botany: The branch of biology that deals with the study of plants, including their structure and genetics.
+Geology: The science that deals with the earth's physical structure, substance, and the processes that act on it.
+Meteorology: The study of the atmosphere that focuses on weather processes and short-term forecasting.
+The Solar System: Consists of the Sun and the objects that orbit it, including eight major planets.
+Genetic Engineering: The direct manipulation of an organism's genes using biotechnology to change its characteristics.
+Theory of Evolution: The process by which different kinds of living organisms developed from earlier forms over time.
+Ecology: The study of how organisms interact with one another and their physical environment.
+Thermodynamics: The branch of physics that deals with heat and temperature and their relation to energy.
+The Periodic Table: A tabular display of chemical elements organized by atomic number and chemical properties.
+Plate Tectonics: The theory explaining the structure of the earth's crust and associated large-scale phenomena.
+Biodiversity: The variety of life in the world or in a particular habitat or ecosystem, indicating health.
+Cell Theory: The historic scientific theory that living organisms are made up of cells as basic units.
+Organic Chemistry: The study of the structure, properties, composition, and reactions of organic compounds.
+Black Holes: Regions of spacetime where gravity is so strong that nothing, not even light, can escape.
+Greenhouse Effect: The process by which radiation from a planet's atmosphere warms the planet's surface.
+Glaciology: The study of glaciers, or more generally ice and natural phenomena that involve ice.
+Zoology: The scientific study of the behavior, structure, physiology, and classification of animals.
+Artificial Intelligence: The simulation of human intelligence processes by machines, especially computer systems.
+Neural Networks: Computing systems inspired by the biological neural networks that constitute animal brains.
+Data Mining: Discovering patterns in large data sets involving methods at the intersection of ML and statistics.
+Cloud Computing: The on-demand availability of computer system resources, especially data storage and power.
+Cybersecurity: The practice of protecting systems, networks, and programs from digital attacks and theft.
+Blockchain: A system in which a record of transactions is maintained across several computers in a network.
+Internet of Things (IoT): The network of physical objects embedded with sensors and software to exchange data.
+SDLC: A process used by the software industry to design, develop, and test high-quality software.
+Front-end Development: The practice of producing HTML, CSS, and JavaScript for a website or application.
+Back-end Development: Server-side development that focuses on databases, scripting, and website architecture.
+Big Data: Extremely large data sets that may be analyzed computationally to reveal patterns and trends.
+NLP: A field of AI that gives computers the ability to understand and process text and spoken words.
+Robotics: The branch of technology that deals with the design, construction, and operation of robots.
+Augmented Reality: An interactive experience where real-world objects are enhanced by computer-generated info.
+Virtual Reality: A simulated experience that can be similar to or completely different from the real world.
+Edge Computing: A distributed computing paradigm that brings computation and storage closer to the source.
+DevOps: A set of practices that combines software development and IT operations for faster delivery.
+API: A set of definitions and protocols for building and integrating application software.
+Cryptography: The practice and study of techniques for secure communication in the presence of adversaries.
+Full-stack Development: Refers to the development of both front-end and back-end portions of an application.
+Java: A high-level, class-based, object-oriented programming language designed for portability.
+C++: A general-purpose programming language created as an extension of the C language with classes.
+JavaScript: A programming language that is one of the core technologies of the World Wide Web.
+SQL: A domain-specific language used for managing and querying data held in relational databases.
+Swift: A general-purpose, compiled programming language developed by Apple for iOS and macOS.
+Kotlin: A cross-platform, statically typed language designed to interoperate fully with Java.
+Ruby: An interpreted, high-level language that emphasizes simplicity and productivity for web apps.
+PHP: A popular general-purpose scripting language that is especially suited to web development.
+Go (Golang): A statically typed, compiled programming language designed at Google for efficiency.
+Rust: A multi-paradigm language designed for performance and safety, especially safe concurrency.
+London: The capital and largest city of England and the UK, standing on the River Thames.
+New York City: A global hub for finance and media, consisting of five unique boroughs.
+Rome: The capital city of Italy, famous for its ancient ruins like the Colosseum and Pantheon.
+Cairo: The capital of Egypt, located on the Nile and famous for the Giza pyramid complex.
+Sydney: A major Australian city known for its harborfront Sydney Opera House and Bondi Beach.
+Great Wall of China: A series of ancient fortifications built across northern China to protect borders.
+Machu Picchu: An Incan citadel set high in the Andes Mountains in Peru, built in the 15th century.
+Grand Canyon: A steep-sided canyon carved by the Colorado River in the state of Arizona.
+Mount Everest: Earth's highest mountain above sea level, located in the Himalayas.
+Amazon Rainforest: A broadleaf forest covering most of the Amazon basin in South America.
+Dubai: A city in the UAE known for luxury shopping, ultramodern architecture, and nightlife.
+Berlin: The capital of Germany, known for its art scene and modern landmarks like the Brandenburg Gate.
+Sahara Desert: The largest hot desert in the world, covering much of North Africa.
+Barcelona: The capital of Catalonia in Spain, famous for Gaudi’s architecture and urban beaches.
+Bangkok: Thailand’s capital, a city famous for ornate shrines and vibrant street life.
+Iceland: A Nordic island nation with a landscape defined by volcanoes, geysers, and hot springs.
+Venice: A city in northeastern Italy built on more than 100 small islands in a lagoon.
+Cape Town: A port city in South Africa, famous for the flat-topped Table Mountain.
+Istanbul: A Turkish city straddling Europe and Asia across the Bosphorus Strait.
+Rio de Janeiro: A seaside city in Brazil, famous for its Carnival festival and Christ the Redeemer.
+Mediterranean Diet: An eating pattern focusing on fruits, vegetables, and healthy fats like olive oil.
+Yoga: A physical and spiritual practice originating in India, focusing on breath and posture.
+Coffee Brewing: The process of making a beverage from roasted and ground coffee seeds.
+Benefits of Sleep: Essential for cognitive function, mood regulation, and long-term physical health.
+Hydration: The process of maintaining fluid balance in the body, vital for organ function.
+Meditation: A practice where an individual trains the mind to achieve a state of mental clarity.
+Sourdough Bread: Bread made by fermenting dough using naturally occurring lactobacilli and yeast.
+Intermittent Fasting: An eating pattern that cycles between periods of eating and total fasting.
+Home Gardening: The activity of growing plants for food or beauty in one's own living space.
+Mental Health: A state of well-being where an individual realizes their own potential and can cope.
+Hiking: A long walk in nature, typically on trails, used for exercise and recreation.
+Sustainable Living: A lifestyle that attempts to reduce an individual’s use of natural resources.
+Veganism: A philosophy and way of living which seeks to exclude all forms of animal exploitation.
+Minimalism: A lifestyle choice focusing on living with only the things that are truly necessary.
+Cardio: Physical exercise that increases heart rate and improves the body's use of oxygen.
+Tea Culture: The way tea is made and consumed, varying significantly across different global cultures.
+Strength Training: Exercise using resistance to build muscle, increase strength, and improve bone density.
+Journaling: The practice of keeping a diary that explores thoughts and feelings surrounding life events.
+Skincare: The range of practices that support skin integrity and enhance its appearance.
+Meal Prepping: The concept of preparing entire meals or dishes ahead of time for efficiency.
+The Renaissance: A period of European "rebirth" in art, science, and culture following the Middle Ages.
