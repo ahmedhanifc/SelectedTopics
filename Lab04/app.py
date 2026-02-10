@@ -1,16 +1,23 @@
 import streamlit as st
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
+import os
 
 from sentence_transformers import SentenceTransformer
-import numpy as np
+
+# Get the directory of the current script
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Load the sentence transformer model
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-embeddings = np.load("embeddings.npy")
+# Use absolute paths relative to the script's location
+embeddings_path = os.path.join(CURRENT_DIR, "embeddings.npy")
+documents_path = os.path.join(CURRENT_DIR, "documents.txt")
 
-with open("documents.txt", "r", encoding="utf-8") as f:
+embeddings = np.load(embeddings_path)
+
+with open(documents_path, "r", encoding="utf-8") as f:
     documents = [line.strip() for line in f.readlines()]
 
 def retrieve_top_k(query_embedding, embeddings, k = 10):
